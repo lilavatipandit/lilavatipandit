@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lilavatipandit
+- 👋 Hi, I’m lilavatipandit
 - 👀 I’m interested in learning new technology.
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on  builed new project.
