@@ -1,8 +1,8 @@
-- 👋 Hi, I’m lilavatipandit
-- 👀 I’m interested in learning new technology.
-- 🌱 I’m currently learning python language
-- 💞️ I’m looking to collaborate on  builed new project.
-- 📫 How to reach me ...
+- 👋 hello everyone, welcome to my profile .
+- 👀 I’m lilavati pandit
+- 🌱 I’m interested in learning new technology.
+- 💞️ I’m currently learning python language 
+- 📫 I’m looking to collaborate on  builed new project.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
