@@ -1,10 +1,10 @@
 - 👋 hello everyone, welcome to my profile .
 - 👀 I’m lilavati pandit
 - 🌱 I’m interested in learning new technology.
-- 💞️ I’m currently learning python language 
-- 📫 I’m looking to collaborate on  builed new project.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’ have good knowledge about java . 
+- 📫 I' am learning data structure and algorithm.
+- 😄  I’m looking to collaborate on  builed new project. ...
+- ⚡ Fun fact: 
 
 <!---
 lilavatipandit/lilavatipandit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
